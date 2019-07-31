@@ -1,2 +1,2 @@
-# Workshop_Intro_to_Data_Visualization
+# Intro to Data Visualization
  Workshop file for Intro to Data Visualization
